@@ -1,11 +1,26 @@
 {
   "stats": {
+    "minecraft:crafted": {
+      "minecraft:oak_planks": 24,
+      "minecraft:crafting_table": 1
+    },
     "minecraft:custom": {
-      "minecraft:time_since_rest": 111,
-      "minecraft:total_world_time": 153,
-      "minecraft:leave_game": 2,
-      "minecraft:play_time": 111,
-      "minecraft:time_since_death": 111
+      "minecraft:sprint_one_cm": 3526,
+      "minecraft:time_since_rest": 1278,
+      "minecraft:walk_one_cm": 2329,
+      "minecraft:total_world_time": 1495,
+      "minecraft:leave_game": 3,
+      "minecraft:fly_one_cm": 3245,
+      "minecraft:play_time": 1278,
+      "minecraft:jump": 22,
+      "minecraft:time_since_death": 1278
+    },
+    "minecraft:picked_up": {
+      "minecraft:oak_log": 6
+    },
+    "minecraft:mined": {
+      "minecraft:short_grass": 1,
+      "minecraft:oak_log": 6
     }
   },
   "DataVersion": 4671
