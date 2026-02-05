@@ -30,6 +30,7 @@
     "done": true
   },
   "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
       "has_planks": "2026-02-05 15:31:44 -0500"
     },
     "done": true
