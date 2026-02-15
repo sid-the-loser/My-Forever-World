@@ -1,6 +1,6 @@
 import os
 
-sorted_dir_list = sorted(os.listdir())
+sorted_dir_list = sorted(os.listdir(), reverse=True)
 
 md_data = ""
 
