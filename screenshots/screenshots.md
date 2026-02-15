@@ -4,7 +4,7 @@
 >
 >Time (HH.MM.SS): 23.44.17
 >
->Notes: To be added...
+>Notes: I'll be right back my little pup. Have some premium mutton while you are at it!
 
 >![2026-02-14_23.38.37.png](2026-02-14_23.38.37.png)
 >
@@ -12,7 +12,7 @@
 >
 >Time (HH.MM.SS): 23.38.37
 >
->Notes: To be added...
+>Notes: Dry Hands is my go-to track to cry to... Aneesha still hasn't called me... It's valentines day... How much will I be able to distract myself with this game?
 
 >![2026-02-14_23.30.15.png](2026-02-14_23.30.15.png)
 >
@@ -20,7 +20,7 @@
 >
 >Time (HH.MM.SS): 23.30.15
 >
->Notes: To be added...
+>Notes: That diamond in a sus position rn... Should I mine it?
 
 >![2026-02-14_23.26.54.png](2026-02-14_23.26.54.png)
 >
@@ -28,7 +28,7 @@
 >
 >Time (HH.MM.SS): 23.26.54
 >
->Notes: To be added...
+>Notes: Adopting all these poor souls I could find.
 
 >![2026-02-14_23.23.56.png](2026-02-14_23.23.56.png)
 >
@@ -36,7 +36,7 @@
 >
 >Time (HH.MM.SS): 23.23.56
 >
->Notes: To be added...
+>Notes: Is this where the souls go after mobs die?
 
 >![2026-02-14_23.23.43.png](2026-02-14_23.23.43.png)
 >
@@ -44,7 +44,7 @@
 >
 >Time (HH.MM.SS): 23.23.43
 >
->Notes: To be added...
+>Notes: Tower of lava. Looks ominous...
 
 >![2026-02-14_23.23.23.png](2026-02-14_23.23.23.png)
 >
@@ -52,7 +52,7 @@
 >
 >Time (HH.MM.SS): 23.23.23
 >
->Notes: To be added...
+>Notes: Coordinates to my nether portal.
 
 >![2026-02-14_23.23.12.png](2026-02-14_23.23.12.png)
 >
@@ -60,7 +60,7 @@
 >
 >Time (HH.MM.SS): 23.23.12
 >
->Notes: To be added...
+>Notes: Secured the portal! Diving in!
 
 >![2026-02-14_23.14.18.png](2026-02-14_23.14.18.png)
 >
@@ -68,7 +68,7 @@
 >
 >Time (HH.MM.SS): 23.14.18
 >
->Notes: To be added...
+>Notes: Reminds me of Chica... When she used to run under my bed so my mom won't find her. Those were the good old days... She'll never come back, but I'll never forget my little pup.
 
 >![2026-02-14_23.13.20.png](2026-02-14_23.13.20.png)
 >
@@ -76,7 +76,7 @@
 >
 >Time (HH.MM.SS): 23.13.20
 >
->Notes: To be added...
+>Notes: My loyal companion! (other than Aneesha ofc)
 
 >![2026-02-14_23.05.39.png](2026-02-14_23.05.39.png)
 >
@@ -84,7 +84,7 @@
 >
 >Time (HH.MM.SS): 23.05.39
 >
->Notes: To be added...
+>Notes: Portal is now lit!
 
 >![2026-02-14_19.36.58.png](2026-02-14_19.36.58.png)
 >
@@ -92,7 +92,7 @@
 >
 >Time (HH.MM.SS): 19.36.58
 >
->Notes: To be added...
+>Notes: Beautiful snow... I miss her a lot...
 
 >![2026-02-14_15.03.25.png](2026-02-14_15.03.25.png)
 >
@@ -100,7 +100,7 @@
 >
 >Time (HH.MM.SS): 15.03.25
 >
->Notes: To be added...
+>Notes: Light leaving the edge of the world *Some might say horizon, but we all know the Earth is flat!*
 
 >![2026-02-14_15.03.13.png](2026-02-14_15.03.13.png)
 >
@@ -108,7 +108,7 @@
 >
 >Time (HH.MM.SS): 15.03.13
 >
->Notes: To be added...
+>Notes: A lone flower on the side of a cliff. No bees here to pollinate off of it. Almost reminds me of myself. Sad. Alone. Still going on somehow.
 
 >![2026-02-14_15.02.35.png](2026-02-14_15.02.35.png)
 >
@@ -116,7 +116,7 @@
 >
 >Time (HH.MM.SS): 15.02.35
 >
->Notes: To be added...
+>Notes: Beautiful sunset behind my portal.
 
 >![2026-02-14_15.01.10.png](2026-02-14_15.01.10.png)
 >
@@ -124,7 +124,7 @@
 >
 >Time (HH.MM.SS): 15.01.10
 >
->Notes: To be added...
+>Notes: Reminded me of the good 'ol days... But it wasn't by C418?!
 
 >![2026-02-14_15.00.53.png](2026-02-14_15.00.53.png)
 >
@@ -132,7 +132,7 @@
 >
 >Time (HH.MM.SS): 15.00.53
 >
->Notes: To be added...
+>Notes: Nether time!...or enchanting table time?
 
 >![2026-02-14_15.00.49.png](2026-02-14_15.00.49.png)
 >
@@ -140,7 +140,7 @@
 >
 >Time (HH.MM.SS): 15.00.49
 >
->Notes: To be added...
+>Notes: I'm mining with my sparkling pick yo!
 
 >![2026-02-08_16.58.30.png](2026-02-08_16.58.30.png)
 >
@@ -148,7 +148,7 @@
 >
 >Time (HH.MM.SS): 16.58.30
 >
->Notes: To be added...
+>Notes: DIAMONDS!...diamond?
 
 >![2026-02-08_16.58.27.png](2026-02-08_16.58.27.png)
 >
@@ -156,7 +156,7 @@
 >
 >Time (HH.MM.SS): 16.58.27
 >
->Notes: To be added...
+>Notes: The coordinates of my first ever diamond ore.
 
 >![2026-02-06_14.52.57.png](2026-02-06_14.52.57.png)
 >
@@ -164,7 +164,7 @@
 >
 >Time (HH.MM.SS): 14.52.57
 >
->Notes: To be added...
+>Notes: A looping cliff-side cave I found. Might build a base here.
 
 >![2026-02-06_14.48.02.png](2026-02-06_14.48.02.png)
 >
@@ -172,7 +172,7 @@
 >
 >Time (HH.MM.SS): 14.48.02
 >
->Notes: To be added...
+>Notes: Coordinates to a small cliff-water type cave I found. (IDK how to explain it properly.)
 
 >![2026-02-05_16.21.28.png](2026-02-05_16.21.28.png)
 >
@@ -180,5 +180,5 @@
 >
 >Time (HH.MM.SS): 16.21.28
 >
->Notes: To be added...
+>Notes: I'd never seen an underwater cave that touched the surface before. This was kinda cool.
 
