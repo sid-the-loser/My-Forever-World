@@ -3,6 +3,8 @@ import os
 
 import generate_notes
 
+input("Press enter once the notes are finished and saved:")
+
 print("Converting all the image data into markdown...")
 
 NOTES_PATH = "notes.json"

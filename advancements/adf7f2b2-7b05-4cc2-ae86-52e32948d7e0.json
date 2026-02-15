@@ -336,6 +336,7 @@
       "apple": "2026-02-14 14:32:33 -0500",
       "bread": "2026-02-14 14:28:42 -0500",
       "rotten_flesh": "2026-02-05 16:25:54 -0500",
+      "cooked_mutton": "2026-02-15 14:07:16 -0500",
       "salmon": "2026-02-14 19:54:40 -0500",
       "cooked_beef": "2026-02-06 01:01:36 -0500"
     },
@@ -1823,21 +1824,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/magenta_harness": {
+  "minecraft:story/enter_the_nether": {
     "criteria": {
-      "has_dried_ghast": "2026-02-14 23:24:40 -0500"
+      "entered_nether": "2026-02-14 23:01:21 -0500"
     },
     "done": true
   },
-  "minecraft:husbandry/whole_pack": {
+  "minecraft:nether/root": {
     "criteria": {
-      "minecraft:snowy": "2026-02-14 23:13:05 -0500"
-    },
-    "done": false
-  },
-  "minecraft:recipes/combat/yellow_harness": {
-    "criteria": {
-      "has_dried_ghast": "2026-02-14 23:24:40 -0500"
+      "entered_nether": "2026-02-14 23:01:21 -0500"
     },
     "done": true
   },
@@ -1847,39 +1842,9 @@
     },
     "done": false
   },
-  "minecraft:recipes/redstone/redstone_torch": {
+  "minecraft:recipes/misc/nether_brick": {
     "criteria": {
-      "has_redstone": "2026-02-14 23:31:54 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/clock": {
-    "criteria": {
-      "has_redstone": "2026-02-14 23:31:54 -0500"
-    },
-    "done": true
-  },
-  "minecraft:story/enter_the_nether": {
-    "criteria": {
-      "entered_nether": "2026-02-14 23:01:21 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/red_harness": {
-    "criteria": {
-      "has_dried_ghast": "2026-02-14 23:24:40 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/green_harness": {
-    "criteria": {
-      "has_dried_ghast": "2026-02-14 23:24:40 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/soul_torch": {
-    "criteria": {
-      "has_soul_sand": "2026-02-14 23:25:24 -0500"
+      "has_netherrack": "2026-02-14 23:02:18 -0500"
     },
     "done": true
   },
@@ -1889,39 +1854,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/note_block": {
-    "criteria": {
-      "has_redstone": "2026-02-14 23:31:54 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/purple_harness": {
-    "criteria": {
-      "has_dried_ghast": "2026-02-14 23:24:40 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/white_harness": {
-    "criteria": {
-      "has_dried_ghast": "2026-02-14 23:24:40 -0500"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/granite": {
     "criteria": {
       "has_quartz": "2026-02-14 23:04:39 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/target": {
-    "criteria": {
-      "has_redstone": "2026-02-14 23:31:54 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/compass": {
-    "criteria": {
-      "has_redstone": "2026-02-14 23:31:54 -0500"
     },
     "done": true
   },
@@ -1937,12 +1872,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/light_gray_harness": {
-    "criteria": {
-      "has_dried_ghast": "2026-02-14 23:24:40 -0500"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/observer": {
     "criteria": {
       "has_quartz": "2026-02-14 23:04:39 -0500"
@@ -1952,6 +1881,60 @@
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_quartz": "2026-02-14 23:04:39 -0500"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/whole_pack": {
+    "criteria": {
+      "minecraft:snowy": "2026-02-14 23:13:05 -0500"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2026-02-14 23:13:05 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/magenta_harness": {
+    "criteria": {
+      "has_dried_ghast": "2026-02-14 23:24:40 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/yellow_harness": {
+    "criteria": {
+      "has_dried_ghast": "2026-02-14 23:24:40 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/red_harness": {
+    "criteria": {
+      "has_dried_ghast": "2026-02-14 23:24:40 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/green_harness": {
+    "criteria": {
+      "has_dried_ghast": "2026-02-14 23:24:40 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/purple_harness": {
+    "criteria": {
+      "has_dried_ghast": "2026-02-14 23:24:40 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/white_harness": {
+    "criteria": {
+      "has_dried_ghast": "2026-02-14 23:24:40 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/light_gray_harness": {
+    "criteria": {
+      "has_dried_ghast": "2026-02-14 23:24:40 -0500"
     },
     "done": true
   },
@@ -1967,18 +1950,6 @@
     },
     "done": true
   },
-  "minecraft:husbandry/tame_an_animal": {
-    "criteria": {
-      "tamed_animal": "2026-02-14 23:13:05 -0500"
-    },
-    "done": true
-  },
-  "minecraft:nether/root": {
-    "criteria": {
-      "entered_nether": "2026-02-14 23:01:21 -0500"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/pink_harness": {
     "criteria": {
       "has_dried_ghast": "2026-02-14 23:24:40 -0500"
@@ -1991,27 +1962,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/dropper": {
-    "criteria": {
-      "has_redstone": "2026-02-14 23:31:54 -0500"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/light_blue_harness": {
     "criteria": {
       "has_dried_ghast": "2026-02-14 23:24:40 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/soul_campfire": {
-    "criteria": {
-      "has_soul_sand": "2026-02-14 23:25:24 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dispenser": {
-    "criteria": {
-      "has_bow": "2026-02-14 23:33:41 -0500"
     },
     "done": true
   },
@@ -2021,21 +1974,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/redstone_block": {
-    "criteria": {
-      "has_redstone": "2026-02-14 23:31:54 -0500"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/brown_harness": {
     "criteria": {
       "has_dried_ghast": "2026-02-14 23:24:40 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/raw_iron": {
-    "criteria": {
-      "has_raw_iron_block": "2026-02-14 23:38:49 -0500"
     },
     "done": true
   },
@@ -2051,15 +1992,153 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/nether_brick": {
+  "minecraft:recipes/decorations/soul_torch": {
     "criteria": {
-      "has_netherrack": "2026-02-14 23:02:18 -0500"
+      "has_soul_sand": "2026-02-14 23:25:24 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2026-02-14 23:25:24 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2026-02-14 23:31:54 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2026-02-14 23:31:54 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2026-02-14 23:31:54 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2026-02-14 23:31:54 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2026-02-14 23:31:54 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2026-02-14 23:31:54 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2026-02-14 23:31:54 -0500"
     },
     "done": true
   },
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2026-02-14 23:31:54 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2026-02-14 23:33:41 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_iron": {
+    "criteria": {
+      "has_raw_iron_block": "2026-02-14 23:38:49 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2026-02-15 14:32:26 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2026-02-15 14:22:52 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2026-02-15 14:10:08 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2026-02-15 14:32:26 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2026-02-15 14:22:52 -0500"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2026-02-15 14:57:08 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2026-02-15 14:22:52 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2026-02-15 14:22:52 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2026-02-15 14:05:28 -0500"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2026-02-15 14:04:59 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2026-02-15 14:05:28 -0500"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:chicken": "2026-02-15 14:04:59 -0500"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2026-02-15 14:10:08 -0500"
     },
     "done": true
   },
