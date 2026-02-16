@@ -2064,15 +2064,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/blue_dye": {
+  "minecraft:husbandry/breed_an_animal": {
     "criteria": {
-      "has_lapis_lazuli": "2026-02-15 14:32:26 -0500"
+      "bred": "2026-02-15 14:04:59 -0500"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/bookshelf": {
+  "minecraft:husbandry/bred_all_animals": {
     "criteria": {
-      "has_book": "2026-02-15 14:22:52 -0500"
+      "minecraft:chicken": "2026-02-15 14:04:59 -0500"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2026-02-15 14:05:28 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2026-02-15 14:05:28 -0500"
     },
     "done": true
   },
@@ -2082,21 +2094,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/lapis_block": {
+  "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
-      "has_lapis_lazuli": "2026-02-15 14:32:26 -0500"
+      "has_paper": "2026-02-15 14:10:08 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2026-02-15 14:22:52 -0500"
     },
     "done": true
   },
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2026-02-15 14:22:52 -0500"
-    },
-    "done": true
-  },
-  "minecraft:story/enchant_item": {
-    "criteria": {
-      "enchanted_item": "2026-02-15 14:57:08 -0500"
     },
     "done": true
   },
@@ -2112,33 +2124,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/paper": {
+  "minecraft:recipes/misc/blue_dye": {
     "criteria": {
-      "has_reeds": "2026-02-15 14:05:28 -0500"
+      "has_lapis_lazuli": "2026-02-15 14:32:26 -0500"
     },
     "done": true
   },
-  "minecraft:husbandry/breed_an_animal": {
+  "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
-      "bred": "2026-02-15 14:04:59 -0500"
+      "has_lapis_lazuli": "2026-02-15 14:32:26 -0500"
     },
     "done": true
   },
-  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+  "minecraft:story/enchant_item": {
     "criteria": {
-      "has_sugar_cane": "2026-02-15 14:05:28 -0500"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/bred_all_animals": {
-    "criteria": {
-      "minecraft:chicken": "2026-02-15 14:04:59 -0500"
-    },
-    "done": false
-  },
-  "minecraft:recipes/decorations/cartography_table": {
-    "criteria": {
-      "has_paper": "2026-02-15 14:10:08 -0500"
+      "enchanted_item": "2026-02-15 14:57:08 -0500"
     },
     "done": true
   },
