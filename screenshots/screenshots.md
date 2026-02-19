@@ -4,7 +4,7 @@
 >
 >Time (HH.MM.SS): 16.03.13
 >
->Notes: To be added...
+>Notes: Cow farm! Small for now, just wait till they start multiplying!
 
 >![2026-02-16_15.34.21.png](2026-02-16_15.34.21.png)
 >
@@ -12,7 +12,7 @@
 >
 >Time (HH.MM.SS): 15.34.21
 >
->Notes: To be added...
+>Notes: ITS ON A HORSE! THE ZOMBIE IS ON A FRICKIN ZOMBIE HORSE!!
 
 >![2026-02-16_15.32.54.png](2026-02-16_15.32.54.png)
 >
@@ -20,7 +20,7 @@
 >
 >Time (HH.MM.SS): 15.32.54
 >
->Notes: To be added...
+>Notes: Second cow acquired!
 
 >![2026-02-16_15.27.55.png](2026-02-16_15.27.55.png)
 >
@@ -28,7 +28,7 @@
 >
 >Time (HH.MM.SS): 15.27.55
 >
->Notes: To be added...
+>Notes: Cliff-side needs some transformation.
 
 >![2026-02-16_15.26.26.png](2026-02-16_15.26.26.png)
 >
@@ -36,7 +36,7 @@
 >
 >Time (HH.MM.SS): 15.26.26
 >
->Notes: To be added...
+>Notes: Couple of glow squids. Looks calming, yet ominous.
 
 >![2026-02-16_15.25.38.png](2026-02-16_15.25.38.png)
 >
@@ -44,7 +44,7 @@
 >
 >Time (HH.MM.SS): 15.25.38
 >
->Notes: To be added...
+>Notes: Wow! Haven't seen one of those yet! It's called a Nautilus (I think...)
 
 >![2026-02-16_15.20.59.png](2026-02-16_15.20.59.png)
 >
@@ -52,7 +52,7 @@
 >
 >Time (HH.MM.SS): 15.20.59
 >
->Notes: To be added...
+>Notes: Wallpaper worthy!
 
 >![2026-02-16_15.20.27.png](2026-02-16_15.20.27.png)
 >
@@ -60,7 +60,7 @@
 >
 >Time (HH.MM.SS): 15.20.27
 >
->Notes: To be added...
+>Notes: Look at that horizon! (2)
 
 >![2026-02-16_15.20.17.png](2026-02-16_15.20.17.png)
 >
@@ -68,7 +68,7 @@
 >
 >Time (HH.MM.SS): 15.20.17
 >
->Notes: To be added...
+>Notes: Look at that horizon!
 
 >![2026-02-15_14.52.09.png](2026-02-15_14.52.09.png)
 >
@@ -92,7 +92,7 @@
 >
 >Time (HH.MM.SS): 14.26.06
 >
->Notes: Small gate I built to enter my cliff-side base (which is still under-contruction).
+>Notes: Small gate I built to enter my cliff-side base (which is still under-construction).
 
 >![2026-02-15_14.25.44.png](2026-02-15_14.25.44.png)
 >
